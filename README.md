@@ -5,7 +5,7 @@ Ready to be deployed to Heroku.
 
 ## ⏳ Prerequisites
 
-1. NodeJs
+1. [NodeJs](https://nodejs.org/en/).
 3. The [Heroku CLI](https://cli.heroku.com/).
 
 ## 🎬 Running Locally

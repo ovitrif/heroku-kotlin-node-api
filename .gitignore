@@ -1,0 +1,14 @@
+build
+bin
+node_modules/
+.classpath
+.project
+.settings
+.gradle
+.idea
+out
+*.iml
+*.ipr
+*.iws
+.env
+.DS_Store

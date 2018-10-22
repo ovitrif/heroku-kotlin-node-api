@@ -1,4 +1,5 @@
 {
   "name": "NodeJs Rest Api Sample",
-  "description": "Sample NodeJs Rest Api written in Kotlin."
+  "description": "Sample NodeJs Rest Api written in Kotlin.",
+  "image": "heroku/nodejs"
 }

@@ -2,6 +2,9 @@
   "name": "heroku-kotlin-node-api",
   "version": "1.0.0",
   "description": "A sample NodeJS REST Api in Kotlin",
+  "engines": {
+    "node": "10.11.0"
+  },
   "main": "dist/index.js",
   "scripts": {
     "start": "node dist/index.js",

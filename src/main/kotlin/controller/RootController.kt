@@ -1,6 +1,6 @@
 package controller
 
-import Config.PORT
+import PORT
 
 object RootController {
 

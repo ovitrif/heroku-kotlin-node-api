@@ -1,3 +1,3 @@
-object Config {
-    const val PORT = 3000;
-}
+external val process: dynamic
+
+val PORT = process.env.PORT ?: 5000;

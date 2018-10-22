@@ -1,5 +1,13 @@
 {
   "name": "NodeJs Rest Api Sample",
   "description": "Sample NodeJs Rest Api written in Kotlin.",
-  "image": "heroku/nodejs"
+  "image": "heroku/nodejs",
+  "buildpacks": [
+    {
+      "url": "heroku/gradle"
+    },
+    {
+      "url": "heroku/nodejs"
+    }
+  ],
 }

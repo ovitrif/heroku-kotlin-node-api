@@ -6,7 +6,6 @@ Ready to be deployed to Heroku.
 ## ⏳ Prerequisites
 
 1. NodeJs
-2. Java - [How to Install JDK (on Windows, Mac OS & Ubuntu)](https://www3.ntu.edu.sg/home/ehchua/programming/howto/JDK_Howto.html).
 3. The [Heroku CLI](https://cli.heroku.com/).
 
 ## 🎬 Running Locally

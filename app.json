@@ -4,10 +4,10 @@
   "image": "heroku/nodejs",
   "buildpacks": [
     {
-      "url": "heroku/gradle"
+      "url": "heroku/nodejs"
     },
     {
-      "url": "heroku/nodejs"
+      "url": "heroku/gradle"
     }
   ],
 }

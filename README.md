@@ -21,7 +21,7 @@ Your app should now be running on [localhost:3000](http://localhost:5000/).
 ## ☁ Deploying to Heroku
 
 ```sh
-$ heroku create
+$ heroku create --buildpack heroku/nodejs
 $ git push heroku master
 $ heroku open
 ```

@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A sample NodeJS REST Api in Kotlin",
   "engines": {
-    "node": "10.11.0"
+    "node": "8.11.1"
   },
   "main": "dist/index.js",
   "scripts": {

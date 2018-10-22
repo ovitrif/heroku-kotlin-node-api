@@ -22,6 +22,7 @@ Your app should now be running on [localhost:3000](http://localhost:5000/).
 
 ```sh
 $ heroku create --buildpack heroku/nodejs
+$ heroku buildpacks:add --index 1 heroku/gradle
 $ git push heroku master
 $ heroku open
 ```

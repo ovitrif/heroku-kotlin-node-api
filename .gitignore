@@ -1,6 +1,7 @@
 build
 bin
 node_modules/
+dist/
 .classpath
 .project
 .settings

@@ -1,4 +1,5 @@
 # A sample NodeJS REST Api in Kotlin
+[![Heroku](http://heroku-badge.herokuapp.com/?app=heroku-kotlin-node-api&style=flat&svg=1)](https://heroku-kotlin-node-api.herokuapp.com/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)][license-url]  
 
 ✅Ready to be deployed to Heroku.  

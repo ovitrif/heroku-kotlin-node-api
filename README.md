@@ -1,7 +1,8 @@
 # A sample NodeJS REST Api in Kotlin
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)][license-url]  
 
-Ready to be deployed to Heroku.
+✅Ready to be deployed to Heroku.
+▶️Demo: https://heroku-kotlin-node-api.herokuapp.com/
 
 ## ⏳ Prerequisites
 
